@@ -1,10 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faishal Jaffar
 ======================================================================================================================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
-I am a Front-End Web Developer. Self-taught, and I've honed my skills through hands-on experience. My toolkit includes HTML, CSS and JavaScript, along with modern frameworks and libraries like React and Next.js, sass and typescript. What sets me apart is my dedication to learning and improving with each project. I believe in writing clean, and efficient code ensuring that every website I create is not only functional but also user-friendly.* 🌍  I'm based in Kuwait* 🖥️  See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm learning C#* 🤝  I'm open to collaborating on Open source projects* ⚡  I am currently laernig C# and dot net frame work, to integrate front-end features with back-end services seamlessly.
+I am a self-driven full-stack developer with a robust foundation in C#, ASP.NET Core, ASP.NET MVC, Web API and MySQL. My
+expertise extends to front-end development, where I excel in creating responsive and efficient web applications. I leverage a
+variety of coding languages and frameworks, including HTML, CSS, TypeScript, and React, to build user-centric solutions that
+align with business objectives.* 🌍  I'm based in Kuwait* 🖥️  See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm learning C#* 🤝  I'm open to collaborating on Open source projects* ⚡  I am currently laernig C# and dot net frame work, to integrate front-end features with back-end services seamlessly.
 
 ### Skills
 
