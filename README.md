@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I am a self-driven full-stack developer with a robust foundation in C#, ASP.NET Core, ASP.NET MVC, Web API and MySQL. My
-expertise extends to front-end development, where I excel in creating responsive and efficient web applications. I leverage a
-variety of coding languages and frameworks, including HTML, CSS, TypeScript, and React, to build user-centric solutions that
-align with business objectives.* 🌍  I'm based in Kuwait* 🖥️  See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm learning C#* 🤝  I'm open to collaborating on Open source projects* ⚡  I am currently laernig C# and dot net frame work, to integrate front-end features with back-end services seamlessly.
+I’m a Front-End Developer passionate about building fast, reliable, and user-friendly web applications. I specialize in creating smooth, responsive interfaces with React, Next.js, and TypeScript. While my main focus is front-end development, I also bring solid backend experience with C# and ASP.NET Core, designing scalable APIs and robust MVC applications. I’m always mindful of performance and accessibility, and I’m proud to have improved load times by over 30% on live projects—because great design should never come at the cost of speed. I thrive in remote, collaborative environments, using Git and GitHub to keep code clean, organized, and maintainable. Whether I’m building new features or optimizing existing systems, I’m driven by a genuine curiosity to learn, improve, and deliver meaningful impact through code. See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm open to collaborating on Open source projects.
 
 ### Skills
 
