@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-I’m a Front-End Developer passionate about building fast, reliable, and user-friendly web applications. I specialize in creating smooth, responsive interfaces with React, Next.js, and TypeScript. While my main focus is front-end development, I also bring solid backend experience with C# and ASP.NET Core, designing scalable APIs and robust MVC applications. I’m always mindful of performance and accessibility, and I’m proud to have improved load times by over 30% on live projects—because great design should never come at the cost of speed. I thrive in remote, collaborative environments, using Git and GitHub to keep code clean, organized, and maintainable. Whether I’m building new features or optimizing existing systems, I’m driven by a genuine curiosity to learn, improve, and deliver meaningful impact through code. See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm open to collaborating on Open source projects.
+I’m a Full-Stack Developer passionate about building fast, reliable, and user-friendly web applications. On the front end, I specialize in creating smooth, responsive interfaces with React, Next.js, and TypeScript. On the back end, I bring solid experience with C# and ASP.NET Core, designing scalable APIs and robust MVC applications that power modern platforms. 
+
+Performance and accessibility are always top of mind. I have optimized live projects to reduce load times by over 30%, proving that great design can go hand in hand with speed and efficiency. I thrive in remote, collaborative environments, using Git and GitHub to keep code clean, organized, and maintable.
+
+Whether I'm building new features or refining existing systems, I'm driven by curiosity, a commitment to best practices, and the goal of delivering meaningfull impact through code. See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm open to collaborating on Open source projects.
 
 ### Skills
 
