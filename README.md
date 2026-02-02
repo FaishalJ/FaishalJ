@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faishal Jaffar
 ======================================================================================================================================
 
-Front-end Developer
+React & ASP.NET Core Developer
 -------------------
 
 I’m a Full-Stack Developer passionate about building fast, reliable, and user-friendly web applications. On the front end, I specialize in creating smooth, responsive interfaces with React, Next.js, and TypeScript. On the back end, I bring solid experience with C# and ASP.NET Core, designing scalable APIs and robust MVC applications that power modern platforms. 
