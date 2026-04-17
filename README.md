@@ -16,9 +16,9 @@ What I do:
 
 I value clean code, accessibility, and the collaborative energy of open-source and remote teams. Whether I’m building a new feature or refining a legacy system, my goal is always to create something meaningful.
 
-✉️ Reach out: [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)*
+✉️ Reach out: [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)
 
-🌐 Explore my work: [MyProtfolio](http://faishaljaffar.netlify.app/)*
+🌐 Explore my work: [MyProtfolio](http://faishaljaffar.netlify.app/)
 
 ### Skills
 
