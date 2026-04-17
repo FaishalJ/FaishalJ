@@ -12,7 +12,7 @@ What I do:
 
 - Back-end: Designing scalable APIs and MVC architectures using C#, ASP.NET Core, and Node.js.
 
-- Optimization: Improving performance—I've successfully reduced load times by 30% on live projects.
+- Optimization: Improving performance I've successfully reduced load times by 30% on live projects.
 
 I value clean code, accessibility, and the collaborative energy of open-source and remote teams. Whether I’m building a new feature or refining a legacy system, my goal is always to create something meaningful.
 
