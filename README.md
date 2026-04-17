@@ -1,14 +1,23 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faishal Jaffar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Faishal Jaffar
 ======================================================================================================================================
 
-React & ASP.NET Core Developer
+Full-Stack Developer
 -------------------
 
-I’m a Full-Stack Developer passionate about building fast, reliable, and user-friendly web applications. On the front end, I specialize in creating smooth, responsive interfaces with React, Next.js, and TypeScript. On the back end, I bring solid experience with C# and ASP.NET Core, designing scalable APIs and robust MVC applications that power modern platforms. 
+I’m a Full-Stack Developer dedicated to building fast, reliable, and user-centric web applications. 
 
-Performance and accessibility are always top of mind. I have optimized live projects to reduce load times by over 30%, proving that great design can go hand in hand with speed and efficiency. I thrive in remote, collaborative environments, using Git and GitHub to keep code clean, organized, and maintable.
+What I do:
 
-Whether I'm building new features or refining existing systems, I'm driven by curiosity, a commitment to best practices, and the goal of delivering meaningfull impact through code. See my portfolio at [MyProtfolio](http://faishaljaffar.netlify.app/)* ✉️  You can contact me at [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)* 🧠  I'm open to collaborating on Open source projects.
+- Front-end: Crafting responsive, type-safe UIs with React, Next.js, and TypeScript.
+
+- Back-end: Designing scalable APIs and MVC architectures using C#, ASP.NET Core, and Node.js.
+
+- Optimization: Improving performance—I've successfully reduced load times by 30% on live projects.
+
+I value clean code, accessibility, and the collaborative energy of open-source and remote teams. Whether I’m building a new feature or refining a legacy system, my goal is always to create something meaningful.
+
+✉️ Reach out: [faishaljaffar@gmail.com](mailto:faishaljaffar@gmail.com)*
+🌐 Explore my work: [MyProtfolio](http://faishaljaffar.netlify.app/)*
 
 ### Skills
 
